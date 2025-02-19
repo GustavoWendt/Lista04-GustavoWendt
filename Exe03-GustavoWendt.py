@@ -2,3 +2,4 @@
 nome=input("Qual o seu nome?: ")
 for letras in nome:
     print(letras)
+print("Gustavo Wendt")

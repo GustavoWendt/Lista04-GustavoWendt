@@ -3,3 +3,4 @@ nome=input("Qual o seu nome?: ")
 i=0
 for i in range(3):
     print(nome)
+print("Gustavo Wendt")

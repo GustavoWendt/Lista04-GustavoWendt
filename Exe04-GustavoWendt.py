@@ -4,3 +4,4 @@ numero=int(input("Digite um número qualquer"))
 for i in range(numero):
     for letras in nome:
      print(letras)
+print("Gustavo Wendt")
